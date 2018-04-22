@@ -1,0 +1,52 @@
+logging:
+  level:
+    za.co.mmiholdings: DEBUG
+
+application:
+  kml:
+    pfa_province:
+          Cape_Free_State_Excl_Islands: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_200.xml
+          KwaZulu_Natal: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_220.xml
+          Gauteng_South_West: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_240.xml
+          Eastern_Cape: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_210.xml
+          Gauteng_North_East: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_230.xml
+          Limpopo_Mpumalanga: kml/OPERSTR_TBL_PFA_PROVINCE_COORDINATES_250.xml
+
+    pfa_province_region:
+      South_Coast: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_1.xml
+      Port_Elizabeth: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_210_8.xml
+      Ekurhuleni_South: kml/
+      Cape_CBD_South: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_13.xml
+      Dr_Segomotsi: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_14.xml
+      Peninsula: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_2.xml
+      Central_Free_State: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_3.xml
+      Boland: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_4.xml
+      North_Eastern_Free_State: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_5.xml
+      Northern_Cape: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_6.xml
+      Cape_West_Coast_Excl_Islands: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_200_7.xml
+      Mount_Frere: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_210_10.xml
+      East_London: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_210_11.xml
+      Mthatha: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_210_12.xml
+      Queenstown: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_210_9.xml
+      Ugu: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_19.xml
+      Illembe: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_20.xml
+      Ethekwini: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_21.xml
+      Uthungulu: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_22.xml
+      Umgungundlovu: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_23.xml
+      Northern_Zululand: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_220_24.xml
+      Tshwane_Central: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_25.xml
+      Tshwane_North: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_26.xml
+      Platinum_Belt_v2: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_27.xml
+      Ekurhuleni_North_Midrand_v2: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_28.xml
+      Ekurhuleni_South: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_29.xml
+      Mpumalanga_Central: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_230_30.xml
+      JHB_Central: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_31.xml
+      West_Rand: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_32.xml
+      Soweto: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_33.xml
+      Ngaka_Modiri_Molema: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_34.xml
+      Dr_K_Kaunda: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_35.xml
+      Sedibeng: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_240_36.xml
+      Mbombela: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_250_15.xml
+      Limpopo_East: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_250_16.xml
+      Limpopo_West: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_250_17.xml
+      Limpopo_North: kml/OPERSTR_TBL_PFA_PVCRGN_COORDINATES_250_18.xml
